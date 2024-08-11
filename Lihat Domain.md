@@ -1,3 +1,3 @@
 ```
-javascript: (() => { alert(location.origin); })();
+javascript: (() => { alert(location.domain); })();
 ```
